@@ -8,8 +8,8 @@
 }
 
 body {
-  background-image: url("./IMAGE/bg.png");
-  background-position: center;
+  background-image: url("./images/bg.png");
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
